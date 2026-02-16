@@ -35,9 +35,9 @@ JS-LearnRooms/
 
 ## Technology Stack
 
-- JavaScript (74.7%)
-- CSS (18.6%)
-- HTML (6.7%)
+- JavaScript
+- CSS
+- HTML
 
 ## Prerequisites
 
